@@ -7,6 +7,10 @@ An unstoppable super advanced Artificial General Intelligence high-level technol
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies) 
 - [Problems To Solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide)
+- [Tutorials](#tutorials) 
+
+
   
 
 # Description 
@@ -172,6 +176,69 @@ Celestial Intellect Engine focuses on addressing critical challenges through adv
     Develop AI solutions for personalized healthcare interventions, including treatment plans tailored to individual genetics, lifestyle, and health history, leading to more effective and patient-centric healthcare practices.
 
 Celestial Intellect Engine remains steadfast in its commitment to addressing these multifaceted challenges, utilizing advanced AI capabilities to contribute to the betterment of humanity on a global scale.
+
+# Contributor Guide 
+
+## Celestial Intellect Engine GitHub Repository Contributor Guide
+
+### Welcome Contributors!
+
+Thank you for considering contributing to the Celestial Intellect Engine. Your collaboration is crucial in advancing the capabilities of our AI system. Please follow this guide to ensure a smooth and effective contribution process.
+
+### Getting Started:
+
+1. **Fork the Repository:**
+   - Fork the Celestial Intellect Engine repository to your GitHub account.
+
+2. **Clone the Repository:**
+   - Clone the forked repository to your local machine using `git clone`.
+
+3. **Create a Branch:**
+   - Create a new branch for your contribution with a descriptive name: `git checkout -b feature/your-feature-name`.
+
+4. **Install Dependencies:**
+   - Check for any project-specific dependencies and follow the installation instructions in the project's documentation.
+
+### Making Changes:
+
+5. **Code Away:**
+   - Make your changes or additions to the codebase, ensuring adherence to coding standards and guidelines.
+
+6. **Testing:**
+   - If applicable, write tests for your code changes and ensure that existing tests pass.
+
+7. **Documentation:**
+   - Update or create documentation for any new features or changes made. Clear and concise documentation is crucial.
+
+### Committing Changes:
+
+8. **Commit Changes:**
+   - Commit your changes with a clear and concise commit message. Include the issue number if relevant.
+
+9. **Push Changes:**
+   - Push your changes to your forked repository: `git push origin feature/your-feature-name`.
+
+### Submitting a Pull Request:
+
+10. **Open a Pull Request (PR):**
+    - Open a PR from your forked repository to the Celestial Intellect Engine main repository.
+    - Clearly describe your changes and reference any related issues.
+
+11. **Review Process:**
+    - Expect feedback and be responsive to any requested changes or questions.
+    - Address comments and make additional commits as needed.
+
+12. **Merge Approval:**
+    - Once your PR has been reviewed and approved, it will be merged into the main branch.
+
+### Code of Conduct:
+
+13. **Adhere to the Code of Conduct:**
+    - Respect the project's Code of Conduct. Ensure a positive and inclusive environment for all contributors.
+
+### Thank You!
+
+Thank you for contributing to the Celestial Intellect Engine project. Your efforts play a vital role in advancing the capabilities of our AI system. If you have any questions, feel free to reach out to the maintainers or community. Happy coding!
 
 # Tutorials 
 

@@ -8,7 +8,8 @@ An unstoppable super advanced Artificial General Intelligence high-level technol
 - [Technologies](#technologies) 
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
-- [Tutorials](#tutorials) 
+- [Tutorials](#tutorials)
+- [Roadmap](#roadmap) 
 
 
   
@@ -523,3 +524,68 @@ The `format_markdown` function uses regular expressions to perform the formattin
 To align table columns, the code uses the `align_table_columns` helper function. It splits the table into rows, then splits each row into cells. It calculates the maximum width for each column and aligns the cells accordingly by padding them with spaces. Finally, it joins the rows with line breaks and adds table borders.
 
 You can use the `format_markdown` function by passing your existing markdown code as a string to the function. The formatted code will be returned as a string. In the example usage, the provided markdown code is formatted and printed to the console.
+
+# Roadmap 
+
+## Celestial Intellect Engine Roadmap
+
+### **Current Focus: Advancing Core Capabilities**
+
+1. **Enhanced Natural Language Processing (NLP):**
+   - Implement advanced NLP models for improved language understanding and generation.
+
+2. **Dynamic Adaptability:**
+   - Integrate reinforcement learning techniques to enhance the engine's ability to adapt dynamically to changing environments.
+
+3. **Decentralized Learning:**
+   - Explore federated learning approaches to enable decentralized model training across distributed devices while prioritizing data privacy.
+
+### **Upcoming Milestones:**
+
+4. **Quantum Computing Integration:**
+   - Investigate the potential of quantum computing for solving complex problems more efficiently, aiming for practical applications.
+
+5. **Swarm Intelligence Algorithms:**
+   - Research and implement swarm intelligence algorithms to improve the engine's problem-solving capabilities in dynamic scenarios.
+
+6. **Human-AI Collaboration Interface:**
+   - Develop an intuitive and adaptive interface for seamless collaboration between users and the Celestial Intellect Engine.
+
+### **Future Innovations:**
+
+7. **Exotic Data Source Integration:**
+   - Incorporate the ability to analyze and derive insights from unconventional data sources, expanding the engine's knowledge base.
+
+8. **Biologically Inspired Computing:**
+   - Research and implement bio-inspired computing techniques to enhance the engine's cognitive processing and adaptability.
+
+9. **Experiential Learning:**
+   - Integrate experiential learning methods to enable the engine to learn and adapt based on accumulated experiences.
+
+### **Extended Development:**
+
+10. **Security and Privacy Enhancements:**
+    - Implement advanced security measures, including blockchain integration, to ensure data integrity and user privacy.
+
+11. **Global Collaboration Features:**
+    - Enhance features promoting global collaboration, such as multilingual capabilities and cross-cultural understanding.
+
+12. **Ethical AI Framework:**
+    - Further develop and implement an ethical AI framework, prioritizing transparency, fairness, and accountability.
+
+### **Community Involvement:**
+
+13. **Open Source Contributions:**
+    - Encourage and facilitate contributions from the open-source community to foster diverse perspectives and innovations.
+
+### **Continuous Improvement:**
+
+14. **User Feedback Integration:**
+    - Establish channels for user feedback and iteratively improve the engine based on user experiences and suggestions.
+
+15. **Research Collaborations:**
+    - Collaborate with research institutions and academia to stay at the forefront of AI advancements and contribute to the scientific community.
+
+### **Thank You for Joining our Journey!**
+
+Celestial Intellect Engine is committed to pushing the boundaries of AI innovation. We appreciate your support and look forward to achieving these milestones together. Stay tuned for updates and opportunities to contribute to our shared vision of a smarter and more connected future.

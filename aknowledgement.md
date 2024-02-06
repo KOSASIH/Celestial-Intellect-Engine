@@ -24,6 +24,6 @@ We express our gratitude to:
 
 Celestial Intellect Engine thrives on the collaborative efforts of this remarkable community. Your collective contributions propel us towards a future where AI serves as a force for positive transformation. Thank you for being an integral part of our journey.
 
-KOSASIH 
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Celestial Intellect Engine Team

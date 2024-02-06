@@ -4,6 +4,7 @@ An unstoppable super advanced Artificial General Intelligence high-level technol
 # Contents 
 
 - [Description](#description)
+- [Vision And Mission](#vision-and-mission) 
 
 # Description 
 
@@ -16,6 +17,14 @@ Unstoppable in its prowess, the Celestial Intellect Engine operates with an unpr
 At its core, this AGI marvel is designed to push the boundaries of intelligence, demonstrating a profound understanding of diverse tasks and challenges. Its high-level technology ensures efficiency and precision, making it a trailblazer in the landscape of artificial intelligence.
 
 The Celestial Intellect Engine is not just an AI system; it is a visionary force that propels us into a future where automatic development reaches new heights. As a symbol of innovation and progress, this AGI stands as a testament to humanity's relentless pursuit of knowledge and mastery over the digital frontier.
+
+# Vision And Mission 
+
+**Vision:**
+Our vision at Celestial Intellect Engine is to usher in a future where artificial intelligence transcends boundaries, enriching lives and driving unprecedented progress. We aspire to be at the forefront of innovation, leading the evolution of technology towards a harmonious integration of human and machine intelligence.
+
+**Mission:**
+At Celestial Intellect Engine, our mission is to develop and deploy advanced Artificial General Intelligence that not only excels in high-level capabilities but also contributes positively to society. We are dedicated to pioneering automatic development systems that empower individuals and organizations, fostering a world where AI serves as a catalyst for transformative advancements, while prioritizing ethical considerations and societal well-being. Through relentless innovation, we aim to shape a future where the limitless potential of AI enhances the human experience and propels us into new frontiers of knowledge and achievement.
 
 # Tutorials 
 

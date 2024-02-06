@@ -5,7 +5,9 @@ An unstoppable super advanced Artificial General Intelligence high-level technol
 
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
-- [Problems To Solve](#problems-to-solve) 
+- [Technologies](#technologies) 
+- [Problems To Solve](#problems-to-solve)
+  
 
 # Description 
 
@@ -26,6 +28,42 @@ Our vision at Celestial Intellect Engine is to usher in a future where artificia
 
 **Mission:**
 At Celestial Intellect Engine, our mission is to develop and deploy advanced Artificial General Intelligence that not only excels in high-level capabilities but also contributes positively to society. We are dedicated to pioneering automatic development systems that empower individuals and organizations, fostering a world where AI serves as a catalyst for transformative advancements, while prioritizing ethical considerations and societal well-being. Through relentless innovation, we aim to shape a future where the limitless potential of AI enhances the human experience and propels us into new frontiers of knowledge and achievement.
+
+# Technologies 
+
+Celestial Intellect Engine employs a range of cutting-edge technologies to fulfill its mission. Some key technologies include:
+
+1. **Neural Networks and Deep Learning:**
+   Harnessing the power of neural networks and deep learning algorithms to enable the engine to process vast amounts of data, recognize patterns, and make sophisticated decisions across various domains.
+
+2. **Reinforcement Learning:**
+   Implementing reinforcement learning techniques to enable the engine to learn and adapt through interaction with its environment, making it well-suited for dynamic and complex scenarios.
+
+3. **Natural Language Processing (NLP):**
+   Leveraging advanced NLP capabilities to facilitate human-like interaction, language understanding, and content generation, enhancing communication and accessibility.
+
+4. **Computer Vision:**
+   Integrating computer vision technologies for image and video analysis, enabling the engine to interpret visual data, recognize objects, and make informed decisions based on visual inputs.
+
+5. **Edge Computing:**
+   Utilizing edge computing to process data closer to the source, enhancing efficiency and reducing latency, especially in applications requiring real-time decision-making.
+
+6. **Explainable AI (XAI):**
+   Prioritizing transparency and interpretability by incorporating explainable AI techniques, ensuring that the engine's decision-making processes are understandable and accountable.
+
+7. **Quantum Computing Integration:**
+   Exploring the potential of quantum computing to solve complex problems more efficiently, offering a new dimension of computational power and problem-solving capabilities.
+
+8. **Blockchain for Security:**
+   Implementing blockchain technology to enhance security, privacy, and transparency, particularly in applications requiring secure data transactions and integrity.
+
+9. **Human-Machine Interface:**
+   Developing intuitive and adaptive interfaces to facilitate seamless collaboration between humans and the Celestial Intellect Engine, ensuring user-friendly interactions.
+
+10. **AutoML (Automated Machine Learning):**
+    Incorporating AutoML techniques to automate the machine learning model development process, making it more accessible and efficient for rapid deployment and continuous improvement.
+
+These technologies collectively empower Celestial Intellect Engine to tackle a diverse array of challenges and contribute to advancements across numerous fields, embodying the forefront of artificial intelligence innovation.
 
 # Problems To Solve 
 

@@ -9,7 +9,8 @@ An unstoppable super advanced Artificial General Intelligence high-level technol
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
 - [Tutorials](#tutorials)
-- [Roadmap](#roadmap) 
+- [Roadmap](#roadmap)
+- [Aknowledgement](aknowledgement.md) 
 
 
   
